@@ -2,21 +2,36 @@
 
 Saya adalah seorang **pengembang perangkat lunak** yang berfokus pada **pengembangan web dan aplikasi** dengan pendekatan yang efisien, scalable, dan user-friendly. Saya belajar secara **otodidak** dan terus mengembangkan keterampilan di berbagai bidang, mulai dari **frontend** hingga **backend**. Saya senang mencari solusi terbaik untuk membangun aplikasi yang tidak hanya **berfungsi dengan baik**, tetapi juga memiliki **struktur solid** dan **performa optimal**.
 
-## 💻 Keahlian dan Teknologi yang Saya Gunakan:
+# 💻 Keahlian & Teknologi
 
-- **Frontend:**
+🚀 Teknologi yang Saya Gunakan:
+
+🌐 Frontend Development
+
   - React ⚛️
   - React Native 📱
-  
-- **Backend:**
+  - Tailwind CSS 🌬️
+
+🛠️ Backend Development
+
   - Spring Boot ☕
-  
-- **Database:**
+
+🗄️ Database
+
   - PostgreSQL 🛢️
   - MySQL 🛠️
 
-- **Pemrograman Sistem:**
+⚙️ Pemrograman Sistem
+
   - C++ 🖥️
+
+🖥️ Bahasa Pemrograman
+
+  - Java ☕
+  - JavaScript 📜
+  - C++ 🔢
+  - PHP 🐘
+  - HTML/CSS 🎨
 
 ## 🚀 Proyek yang Sedang Saya Kerjakan:
 Saat ini, saya sedang mengerjakan beberapa proyek yang melibatkan pengembangan aplikasi **web fullstack** dan **aplikasi desktop**. Beberapa fokus utama saya:
