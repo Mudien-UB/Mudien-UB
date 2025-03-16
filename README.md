@@ -28,8 +28,8 @@ Saat ini, saya sedang mengerjakan beberapa proyek yang melibatkan pengembangan a
 Saya percaya bahwa **teknologi adalah alat yang kuat** untuk menciptakan solusi yang berdampak. Saya terus berusaha untuk mempelajari konsep-konsep baru dan mengasah keterampilan saya di bidang **software engineering**. **Kolaborasi** adalah bagian penting dalam perjalanan saya, dan saya senang berbagi ide serta belajar dari orang lain.
 
 ## 📬 Terhubung dengan Saya:
-- **LinkedIn:** [linkedin.com/in/username](www.linkedin.com/in/ubay-lahmudien-mudienub075)
+- **LinkedIn:** [link](www.linkedin.com/in/ubay-lahmudien-mudienub075)
 - **Email:** mudienub@gmail.com
-- **GitHub:** [github.com/username](https://github.com/Mudien-UB)
+- **GitHub:** [link](https://github.com/Mudien-UB)
 
 Terima kasih telah mengunjungi profil saya! 😄
