@@ -1,52 +1,96 @@
-# 👋 Hi, Saya Ubay!
 
-Saya adalah seorang **pengembang perangkat lunak** yang berfokus pada **pengembangan web dan aplikasi** dengan pendekatan yang efisien, scalable, dan user-friendly. Saya belajar secara **otodidak** dan terus mengembangkan keterampilan di berbagai bidang, mulai dari **frontend** hingga **backend**. Saya senang mencari solusi terbaik untuk membangun aplikasi yang tidak hanya **berfungsi dengan baik**, tetapi juga memiliki **struktur solid** dan **performa optimal**.
+    Where creativity flows through every line of code.
+    When logic meets imagination in perfect harmony,
+    Innovation is no longer a goal—it becomes a way of life.
+    Each bug a mystery, each fix a triumph.
+    This is where ideas come alive,
+    One keystroke at a time
+---
 
-# 💻 Keahlian & Teknologi
+# 👋 Hi, Ubay Lahmudien Menyapa !
 
-🚀 Teknologi yang Saya Gunakan:
+**Pengembang perangkat lunak** yang berfokus pada pembuatan **aplikasi web dan seluler** yang mudah digunakan dan dapat diskalakan. saya memiliki dasar yang kuat dalam **Java** dan **JavaScript**, saya mengkhususkan diri dalam pengembangan backend dengan **Spring Boot** dan **Laravel** dan pengembangan frontend dengan **React** dan **React Native**. Keahlian dalam manajemen basis data menggunakan **PostgreSQL** dan **MySQL**, beserta pemahaman tentang **C++** untuk pemrograman tingkat sistem yang akan terus diasah.
 
-🌐 Frontend Development
+Bersemangat dalam mempelajari teknologi baru, mengoptimalkan kinerja aplikasi, dan memecahkan tantangan teknis yang kompleks
 
-  - React ⚛️
-  - React Native 📱
-  - Tailwind CSS 🌬️
+> Saya selalu mencari peluang untuk berkolaborasi dan menciptakan solusi yang berdampak.
 
-🛠️ Backend Development
+---
+## 💻 Keahlian & Teknologi
 
-  - Spring Boot ☕
+### 🚀 Teknologi yang Saya Gunakan:
 
-🗄️ Database
+#### 🌐 Frontend Development
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+    <td><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+  </tr>
+  <tr align="center">
+    <td>React</td>
+    <td>React Native</td>
+    <td>Tailwind CSS</td>
+  </tr>
+</table>
 
-  - PostgreSQL 🛢️
-  - MySQL 🛠️
+#### 🛠️ Backend Development
+<table>
+  <tr align="center">
+    <td><img src="https://img.icons8.com/officel/80/spring-logo.png" width="40"/></td>
+    <td><img src="https://laravel.com/img/logomark.min.svg" width="40"/></td>
+  </tr>
+  <tr align="center">
+    <td>Spring Boot</td>
+    <td>Laravel</td>
+  </tr>
+</table>
 
-⚙️ Pemrograman Sistem
+#### 🗄️ Database
+<table>
+  <tr align="center">
+    <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+  </tr>
+  <tr align="center">
+    <td>PostgreSQL</td>
+    <td>MySQL</td>
+  </tr>
+</table>
 
-  - C++ 🖥️
+#### 🖥️ Bahasa Pemrograman
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/></td>
+  </tr>
+  <tr align="center">
+    <td>Java</td>
+    <td>JavaScript</td>
+    <td>C++</td>
+    <td>PHP</td>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+</table>
 
-🖥️ Bahasa Pemrograman
-
-  - Java ☕
-  - JavaScript 📜
-  - C++ 🔢
-  - PHP 🐘
-  - HTML/CSS 🎨
-
-## 🚀 Proyek yang Sedang Saya Kerjakan:
-Saat ini, saya sedang mengerjakan beberapa proyek yang melibatkan pengembangan aplikasi **web fullstack** dan **aplikasi desktop**. Beberapa fokus utama saya:
-- **Pengembangan API dan integrasi dengan frontend.**
-- **Optimasi aplikasi dan peningkatan performa.**
-- **Menerapkan algoritma dan struktur data yang efisien.**
-
-## 💡 Tentang Saya:
-Saya percaya bahwa **teknologi adalah alat yang kuat** untuk menciptakan solusi yang berdampak. Saya terus berusaha untuk mempelajari konsep-konsep baru dan mengasah keterampilan saya di bidang **software engineering**. **Kolaborasi** adalah bagian penting dalam perjalanan saya, dan saya senang berbagi ide serta belajar dari orang lain.
+---
 
 ## 📬 Terhubung dengan Saya:
-- **LinkedIn:** [www.linkedin.com/in/ubay-lahmudien-mudienub075](www.linkedin.com/in/ubay-lahmudien-mudienub075)
+
+- **LinkedIn:** [www.linkedin.com/in/ubay-lahmudien-mudienub075](https://www.linkedin.com/in/ubay-lahmudien-mudienub075)
 - **Email:** mudienub@gmail.com
 - **GitHub:** [https://github.com/Mudien-UB](https://github.com/Mudien-UB)
 
-Terima kasih telah mengunjungi profil saya! 😄
-## 💻☕ **Code runs on coffee :**
-☕ [Buy Me a Coffee](https://buymeacoffee.com/mudienubr)
+---
+😄 Terima kasih telah mengunjungi profil saya!
+---
+
+> **NB** : Dont Forget A Cup of Coffee Today
+
+---
+
