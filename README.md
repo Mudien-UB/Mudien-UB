@@ -1,21 +1,22 @@
-
-    Where creativity flows through every line of code.
-    When logic meets imagination in perfect harmony,
-    Innovation is no longer a goal—it becomes a way of life.
-    Each bug a mystery, each fix a triumph.
-    This is where ideas come alive,
+<blockquote style="font-family: Georgia, serif; font-style: italic; line-height: 1.6; background-color: #f9f9f9; padding: 1em; border-left: 4px solid #ccc;">
+    Where creativity flows through every line of code.<br>
+    When logic meets imagination in perfect harmony,<br>
+    Innovation is no longer a goal—it becomes a way of life.<br>
+    Each bug a mystery, each fix a triumph.<br>
+    This is where ideas come alive,<br>
     One keystroke at a time
----
+</blockquote>
+
 
 # 👋 Hi, Ubay Lahmudien Menyapa !
 
 **Pengembang perangkat lunak** yang berfokus pada pembuatan **aplikasi web dan seluler** yang mudah digunakan dan dapat diskalakan. saya memiliki dasar yang kuat dalam **Java** dan **JavaScript**, saya mengkhususkan diri dalam pengembangan backend dengan **Spring Boot** dan **Laravel** dan pengembangan frontend dengan **React** dan **React Native**. Keahlian dalam manajemen basis data menggunakan **PostgreSQL** dan **MySQL**, beserta pemahaman tentang **C++** untuk pemrograman tingkat sistem yang akan terus diasah.
 
 Bersemangat dalam mempelajari teknologi baru, mengoptimalkan kinerja aplikasi, dan memecahkan tantangan teknis yang kompleks
-
 > Saya selalu mencari peluang untuk berkolaborasi dan menciptakan solusi yang berdampak.
 
 ---
+
 ## 💻 Keahlian & Teknologi
 
 ### 🚀 Teknologi yang Saya Gunakan:
@@ -89,7 +90,9 @@ Bersemangat dalam mempelajari teknologi baru, mengoptimalkan kinerja aplikasi, d
 
 > Saya akan senang jika diajak kolaborasi atau berdiskusi seputar pengembangan web, pemrograman, atau proyek-proyek teknologi lainnya.
 > Jangan ragu untuk menghubungi saya—saya terbuka untuk peluang belajar dan berkembang bersama! 🚀
+
 ---
+
 😄 Terima kasih telah mengunjungi profil saya!
 ---
 
