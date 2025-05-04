@@ -85,7 +85,10 @@ Bersemangat dalam mempelajari teknologi baru, mengoptimalkan kinerja aplikasi, d
 - **LinkedIn:** [www.linkedin.com/in/ubay-lahmudien-mudienub075](https://www.linkedin.com/in/ubay-lahmudien-mudienub075)
 - **Email:** mudienub@gmail.com
 - **GitHub:** [https://github.com/Mudien-UB](https://github.com/Mudien-UB)
+- **Instagram** [@mudien_ub](https://www.instagram.com/mudien_ub/)
 
+> Saya akan senang jika diajak kolaborasi atau berdiskusi seputar pengembangan web, pemrograman, atau proyek-proyek teknologi lainnya.
+> Jangan ragu untuk menghubungi saya—saya terbuka untuk peluang belajar dan berkembang bersama! 🚀
 ---
 😄 Terima kasih telah mengunjungi profil saya!
 ---
