@@ -1,5 +1,5 @@
 
-![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ6ZnByb2R4amhrd3htZnFrdTRtMnZieGFkY2JveWdvN2tpc2hheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/atTnCZ5DLUhUs/giphy.gif)
+
 
 <blockquote style="font-family: Georgia, serif; font-style: italic; line-height: 1.6; background-color: #f9f9f9; padding: 1em; border-left: 4px solid #ccc;">
     Where creativity flows through every line of code.<br>
