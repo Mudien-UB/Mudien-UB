@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Bey_Mudien.png" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Foto Profil Ubay Lahmudien"/>
+  <img src="./Bey_Mudien.png" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Foto Profil Ubay Lahmudien"/>
 </p>
 
   <p align="center" style="font-family: Georgia, serif; font-style: italic; font-size: 16px; line-height: 1.6; color: #555;">
