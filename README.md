@@ -1,14 +1,17 @@
+<p align="center">
+  <img src="./Bey_Mudien.png" width="300" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Foto Profil Ubay Lahmudien"/>
+</p>
 
-
-
-<blockquote style="font-family: Georgia, serif; font-style: italic; line-height: 1.6; background-color: #f9f9f9; padding: 1em; border-left: 4px solid #ccc;">
+  <p align="center" style="font-family: Georgia, serif; font-style: italic; font-size: 16px; line-height: 1.6; color: #555;">
     Where creativity flows through every line of code.<br>
     When logic meets imagination in perfect harmony,<br>
     Innovation is no longer a goal—it becomes a way of life.<br>
     Each bug a mystery, each fix a triumph.<br>
     This is where ideas come alive,<br>
-    One keystroke at a time
-</blockquote>
+    One keystroke at a time.
+  </p>
+<br/>
+<br/>
 
 
 # 👋 Hi, Ubay Lahmudien Menyapa !
