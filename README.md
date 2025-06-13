@@ -1,101 +1,73 @@
-<p align="center">
-  <img src="./Bey_Mudien.png" width="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Foto Profil Ubay Lahmudien"/>
-</p>
 
-  <p align="center" style="font-family: Georgia, serif; font-style: italic; font-size: 16px; line-height: 1.6; color: #555;">
-    Where creativity flows through every line of code.<br>
-    When logic meets imagination in perfect harmony,<br>
-    Innovation is no longer a goal—it becomes a way of life.<br>
-    Each bug a mystery, each fix a triumph.<br>
-    This is where ideas come alive,<br>
-    One keystroke at a time.
-  </p>
+<img align="right" src="./Bey_Mudien.png" width="230" hspace="20" />
+
+>  Where creativity flows through every line of code.
+
+>  When logic meets imagination in perfect harmony,
+
+>  Innovation is no longer a goal—it becomes a way of life.
+
+>  Each bug a mystery, each fix a triumph.
+
+>    This is where ideas come alive,
+
+>   One keystroke at a time.
+
 <br/>
-<br/>
 
+# 👋 Hi, I'm Ubay Lahmudien!
 
-# 👋 Hi, Ubay Lahmudien Menyapa !
+**Software Developer** | **Server-side Engineer**
 
-**Pengembang perangkat lunak** yang berfokus pada pembuatan **aplikasi web dan seluler** yang mudah digunakan dan dapat diskalakan. saya memiliki dasar yang kuat dalam **Java** dan **JavaScript**, saya mengkhususkan diri dalam pengembangan backend dengan **Spring Boot** dan **Laravel** dan pengembangan frontend dengan **React** dan **React Native**. Keahlian dalam manajemen basis data menggunakan **PostgreSQL** dan **MySQL**, beserta pemahaman tentang **C++** untuk pemrograman tingkat sistem yang akan terus diasah.
-
-Bersemangat dalam mempelajari teknologi baru, mengoptimalkan kinerja aplikasi, dan memecahkan tantangan teknis yang kompleks
-> Saya selalu mencari peluang untuk berkolaborasi dan menciptakan solusi yang berdampak.
+Saya adalah seorang developer yang suka membangun sistem backend yang andal dan efisien. Saya senang mengeksplorasi teknologi baru, menyelesaikan masalah teknis yang menantang, dan selalu terbuka untuk berkolaborasi dalam membangun solusi yang berdampak nyata.
 
 ---
 
-## 💻 Keahlian & Teknologi
+## 💡 Sedikit Tentang Saya
 
-### 🚀 Teknologi yang Saya Gunakan:
-
-#### 🌐 Frontend Development
-<table>
-  <tr align="center">
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
-    <td><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
-  </tr>
-  <tr align="center">
-    <td>React</td>
-    <td>React Native</td>
-    <td>Tailwind CSS</td>
-  </tr>
-</table>
-
-#### 🛠️ Backend Development
-<table>
-  <tr align="center">
-    <td><img src="https://img.icons8.com/officel/80/spring-logo.png" width="40"/></td>
-    <td><img src="https://laravel.com/img/logomark.min.svg" width="40"/></td>
-  </tr>
-  <tr align="center">
-    <td>Spring Boot</td>
-    <td>Laravel</td>
-  </tr>
-</table>
-
-#### 🗄️ Database
-<table>
-  <tr align="center">
-    <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-  </tr>
-  <tr align="center">
-    <td>PostgreSQL</td>
-    <td>MySQL</td>
-  </tr>
-</table>
-
-#### 🖥️ Bahasa Pemrograman
-<table>
-  <tr align="center">
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/></td>
-  </tr>
-  <tr align="center">
-    <td>Java</td>
-    <td>JavaScript</td>
-    <td>C++</td>
-    <td>PHP</td>
-    <td>HTML</td>
-    <td>CSS</td>
-  </tr>
-</table>
+- 🧠 Belajar secara otodidak & terus berkembang
+- 🔌 Tertarik pada integrasi sistem dan API
+- 📈 Suka menulis kode bersih & scalable
+- 🤝 Terbuka untuk kolaborasi open-source dan project freelance
 
 ---
 
-## 📬 Terhubung dengan Saya:
+## 🚀 Tech Stack
 
-- **LinkedIn:** [www.linkedin.com/in/ubay-lahmudien-mudienub075](https://www.linkedin.com/in/ubay-lahmudien-mudienub075)
-- **Email:** mudienub@gmail.com
-- **GitHub:** [https://github.com/Mudien-UB](https://github.com/Mudien-UB)
-- **Instagram** [@mudien_ub](https://www.instagram.com/mudien_ub/)
+### 🛠 Backend
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-> Saya akan senang jika diajak kolaborasi atau berdiskusi seputar pengembangan web, pemrograman, atau proyek-proyek teknologi lainnya.
-> Jangan ragu untuk menghubungi saya—saya terbuka untuk peluang belajar dan berkembang bersama! 🚀
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+> I'm not a dedicated frontend developer, but I have hands-on experience building interfaces using these tools.
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🤝 Let’s Connect
+
+### Bagaimana Anda bisa berkomunikasi dengan saya:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubay-lahmudien-mudienub075)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mudien_ub/)
+[![Email](https://img.shields.io/badge/Email-mudienub@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudienub@gmail.com)
+
+> Saya akan senang jika diajak kolaborasi atau berdiskusi seputar pengembangan web, pemrograman, atau proyek-proyek teknologi lainnya.  
+> Jangan ragu untuk menghubungi saya — saya terbuka untuk peluang belajar dan berkembang bersama! 🚀
 
 ---
 
