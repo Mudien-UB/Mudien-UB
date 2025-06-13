@@ -1,6 +1,4 @@
 
-<img src="./Bey_Mudien.png" width="230" />
-
 >  Where creativity flows through every line of code.
 
 >  When logic meets imagination in perfect harmony,
