@@ -28,15 +28,6 @@ dan menjadikan teknologi sebagai medium seni.
 
 ## 🚀 Tech Stack
 
-![Java SE](https://img.shields.io/badge/Java%20SE-007396?style=flat-square&logo=java&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=flat-square&logo=java&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-ED8B00?style=flat-square&logo=jakartaee&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
