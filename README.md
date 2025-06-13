@@ -1,5 +1,5 @@
 
-<img align="right" src="./Bey_Mudien.png" width="230" hspace="20" />
+<img src="./Bey_Mudien.png" width="230" />
 
 >  Where creativity flows through every line of code.
 
