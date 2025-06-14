@@ -74,6 +74,10 @@ dan menjadikan teknologi sebagai medium seni.
 
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 ---
 
