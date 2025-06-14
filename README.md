@@ -68,6 +68,11 @@ dan menjadikan teknologi sebagai medium seni.
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
