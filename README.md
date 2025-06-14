@@ -64,16 +64,10 @@ dan menjadikan teknologi sebagai medium seni.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudien-UB&layout=compact&theme=tokyonight)
 <br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mudien-UB&theme=tokyonight) 
-
-
+[![GitHub Streak](https://github-readme-streak-stats-tau-lac.vercel.app?user=Mudien-UB&theme=tokyonight)](https://git.io/streak-stats)
+<br/>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
@@ -101,8 +95,8 @@ No activity tracked
 ---
 <!--
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudien-UB&show_icons=true&theme=tokyonight)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Mudien-UB&theme=radical&no-frame=false&no-bg=true&row=1&margin-w=4&rank=SECRET)
 ![](https://github-contributor-stats.vercel.app/api?username=Mudien-UB&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudien-UB&show_icons=true&theme=whatsapp-dark)
 -->
