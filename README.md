@@ -66,15 +66,10 @@ dan menjadikan teknologi sebagai medium seni.
 <br/>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mudien-UB&theme=tokyonight) 
 
-<!--
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudien-UB&show_icons=true&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mudien-UB&theme=radical&no-frame=false&no-bg=true&row=1&margin-w=4&rank=SECRET)
-![](https://github-contributor-stats.vercel.app/api?username=Mudien-UB&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
-
--->
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
@@ -100,4 +95,10 @@ dan menjadikan teknologi sebagai medium seni.
 > **NB** : Dont Forget A Cup of Coffee Today
 
 ---
+<!--
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudien-UB&show_icons=true&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mudien-UB&theme=radical&no-frame=false&no-bg=true&row=1&margin-w=4&rank=SECRET)
+![](https://github-contributor-stats.vercel.app/api?username=Mudien-UB&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
+
+-->
