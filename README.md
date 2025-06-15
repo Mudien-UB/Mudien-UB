@@ -70,7 +70,11 @@ dan menjadikan teknologi sebagai medium seni.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              4 hrs 39 mins   █████████████████▒░░░░░░░   69.60 %
+JavaScript        1 hr 36 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+PHP               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Java Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
