@@ -62,8 +62,8 @@ dan menjadikan teknologi sebagai medium seni.
 
 ## 📊 My Stats
 
-<br/>
 [![GitHub Streak](https://github-readme-streak-stats-tau-lac.vercel.app?user=Mudien-UB&theme=tokyonight)](https://git.io/streak-stats)
+
 <br/>
 
 <!--START_SECTION:waka-->
