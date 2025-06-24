@@ -69,11 +69,11 @@ dan menjadikan teknologi sebagai medium seni.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        4 hrs 56 mins   ██████████████░░░░░░░░░░░   55.92 %
-Java              3 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.37 %
-Markdown          40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Java              3 hrs 7 mins    ██████████████▓░░░░░░░░░░   58.77 %
+JavaScript        2 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   40.84 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
