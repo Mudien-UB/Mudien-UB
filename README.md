@@ -70,11 +70,11 @@ dan menjadikan teknologi sebagai medium seni.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 48 mins   ████████████████████▓░░░░   82.60 %
-Java         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JavaScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-XML          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python            7 hrs           ████████████░░░░░░░░░░░░░   48.30 %
+Java              5 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.02 %
+XML               29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+C++               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Bash              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
