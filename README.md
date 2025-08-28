@@ -65,7 +65,7 @@ dan menjadikan teknologi sebagai medium seni.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudien-UB&layout=compact&  theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudien-UB&layout=compact&theme=tokyonight)
 
 <br/>
 
