@@ -65,6 +65,10 @@ dan menjadikan teknologi sebagai medium seni.
 
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudien-UB&layout=compact&  theme=tokyonight)
+
+<br/>
+
 ### My Recent Activities :
 
 <!--START_SECTION:waka-->
@@ -108,5 +112,4 @@ Bash              13 mins         ▒░░░░░░░░░░░░░░�
 ![](https://github-contributor-stats.vercel.app/api?username=Mudien-UB&limit=5&theme=transparent&combine_all_yearly_contributions=true) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudien-UB&show_icons=true&theme=whatsapp-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudien-UB&layout=compact&  theme=tokyonight)
 -->
