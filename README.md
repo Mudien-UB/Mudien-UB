@@ -2,21 +2,6 @@
 
 **Software Developer** | **Server-side Engineer**
 
-Aku suka menelusuri imajinasi _code_ dan menemukan kreativitas dalam ide... 
-perpaduan antara imajinasi dan logika,
-bukan sekadar hasil, tapi sebuah karya yang hidup dalam algoritma.
-
-_Syntax code_ dan langkah yang terdokumentasi, 
-di mana setiap fungsi bukan hanya instruksi,
-dan setiap _error_ adalah tantangan yang mengasah visi.
-
-Aku tidak sekadar membangun aplikasi,
-tapi merangkai makna dari sentuhan hati,
-menggapai cita dari mimpi,
-dan menjadikan teknologi sebagai medium seni.
-
----
-
 ## 💡 Sedikit Tentang Saya
 
 - 🧠 Belajar secara otodidak & terus berkembang
