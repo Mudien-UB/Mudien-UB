@@ -59,11 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        4 hrs 57 mins   ████████████████████▓░░░░   82.75 %
-Java              21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-C                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-XML               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
