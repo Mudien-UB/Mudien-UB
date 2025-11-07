@@ -54,18 +54,6 @@
 
 <br/>
 
-### My Recent Activities :
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-
 ---
 
 ## 🤝 Let’s Connect
