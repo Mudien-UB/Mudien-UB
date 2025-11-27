@@ -46,7 +46,7 @@
 
 ## 📊 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudien-ub&theme=react&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudien-ub&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 <br/>
 
