@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Ubay Lahmudien!
 
-**Software Developer** | **Server-side Engineer**
+**Software Developer** | **Server-side Engineer** | **Student**
 
 ## 💡 Sedikit Tentang Saya
 
 - 🧠 Belajar secara otodidak & terus berkembang
 - 🔌 Tertarik pada integrasi sistem dan API
-- 📈 Suka menulis kode bersih & scalable
 - 🤝 Terbuka untuk kolaborasi open-source dan project freelance
 
 ---
@@ -39,14 +38,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-<br/>
-
----
-
-## 📊 My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudien-ub&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 <br/>
 
