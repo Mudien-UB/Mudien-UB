@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ubay Lahmudien!
 
-**Software Developer** | **Frontend Web Developer** | **Server-side Engineer** | **Student**
+**Web Developer** | **Frontend Web Developer** | **Server-side Engineer** | **Student**
 
 ## 💡 Sedikit Tentang Saya
 
